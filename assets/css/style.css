@@ -32,6 +32,49 @@ h6 {
   font-family: "Raleway", sans-serif;
 }
 
+.box.top{
+  width: 272px;
+  height: 152px;
+  display: inline-block;
+  z-index: 1;
+margin-left: 180px;
+  background-color: #000000;
+}
+.a{
+  display: inline-block;
+}
+.tata-tp{
+  margin-left: 180px;
+}
+.box.bottom.left{
+  width: 301px;
+  height: 200px;
+  display: inline-block;
+ margin-left: 20px;
+  background-color: #0e2442;
+  z-index: 0;
+}
+.box.bottom.right{
+  width: 296px;
+  height: 200px;
+  display: inline-block;
+  background-color: #0e2442;
+  z-index: index 0;
+margin-left: 79px;
+}
+.lefty{
+  margin-left: 10px;
+  position: absolute;
+}
+.aff{
+  margin-left: 242px;
+  font-weight: 700;
+  margin-bottom: 15px;
+  font-size: 30px;
+}
+.random{
+  display: inline-block;
+}
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -48,7 +91,12 @@ h6 {
   border-radius: 50px;
   transition: all 0.4s;
 }
-
+.vtech{
+  margin-left: 80px;
+}
+.iitm{
+  margin-left: 20px;
+}
 .back-to-top i {
   font-size: 28px;
   color: #fff;
@@ -289,13 +337,18 @@ h6 {
     margin-bottom: 30px;
   }
 }
-
+.space{
+margin-left: 30px;
+}
 /*--------------------------------------------------------------
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 60px 0;
+  padding: 13px 0;
   overflow: hidden;
+}
+section .affiliations{
+  padding: 0 0;
 }
 
 .section-bg {
