@@ -63,7 +63,7 @@ margin-left: 180px;
 margin-left: 79px;
 }
 .lefty{
-  margin-left: 10px;
+  margin-left: 117px;
   position: absolute;
 }
 .aff{
@@ -71,6 +71,10 @@ margin-left: 79px;
   font-weight: 700;
   margin-bottom: 15px;
   font-size: 30px;
+}
+.former{
+  position: relative;
+  left: 10rem;
 }
 .random{
   display: inline-block;
