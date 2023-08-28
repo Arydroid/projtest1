@@ -1,9 +1,3 @@
-/**
-* Template Name: iPortfolio - v3.10.0
-* Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
 /*--------------------------------------------------------------
 # General
@@ -47,20 +41,22 @@ margin-left: 180px;
   margin-left: 180px;
 }
 .box.bottom.left{
-  width: 301px;
-  height: 200px;
+  width: 297px;
+  height: 191px;
   display: inline-block;
  margin-left: 20px;
   background-color: #0e2442;
   z-index: 0;
 }
 .box.bottom.right{
-  width: 296px;
-  height: 200px;
+  width: 297px;
+  height: 174px;
   display: inline-block;
   background-color: #0e2442;
   z-index: index 0;
 margin-left: 79px;
+margin-bottom: 0.5rem;
+
 }
 .lefty{
   margin-left: 117px;
